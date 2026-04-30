@@ -1,0 +1,7 @@
+,coef_USD,erro_padrao,t,p_valor,IC95_inf,IC95_sup
+Intercept,133899.01,1750.02,76.51,0.0,130468.39,137329.63
+"C(Country_agrupado, Treatment(reference='USA'))[T.France]",-82060.02,2590.48,-31.68,0.0,-87138.22,-76981.82
+"C(Country_agrupado, Treatment(reference='USA'))[T.Germany]",-71797.87,1961.56,-36.6,0.0,-75643.17,-67952.57
+"C(Country_agrupado, Treatment(reference='USA'))[T.India]",-118248.65,2630.55,-44.95,0.0,-123405.39,-113091.91
+"C(Country_agrupado, Treatment(reference='USA'))[T.UK]",-55713.61,2170.61,-25.67,0.0,-59968.73,-51458.5
+YearsCode,1250.67,69.76,17.93,0.0,1113.92,1387.42
